@@ -54,7 +54,7 @@ bash <(curl -s https://i-tct.com/dl/vps)
 ---
 
 ### 🪟 Deploy on Windows
-- Open PowerShell 
+- Open PowerShell as admin
 
 - Type the exact command below:
 
