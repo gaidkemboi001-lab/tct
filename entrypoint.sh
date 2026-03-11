@@ -59,6 +59,9 @@ if [ -z "$(eval "printf '%s' \"\${PREFIX}\"")" ]; then
   fi
 fi
 
+echo "SESSION_ID from render:"
+echo "$SESSION_ID"
+
 # --- 3. RUN THE BOT ---
 echo "Starting bot..."
 if [ "$#" -gt 0 ]; then
